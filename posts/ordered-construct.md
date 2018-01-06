@@ -1,4 +1,4 @@
-# Ordered Construct
+# Ordered construct
 
 The `ordered` construct is used to guarantee the code run in iteration order of loop. Check the following example:  
 

@@ -11,7 +11,7 @@
 * [Critical construct](posts/critical-construct.md)
 * [Atomic construct](posts/atomic-construct.md)
 * [Flush construct](posts/flush-construct.md)
-* [Ordered Construct](posts/ordered-construct.md)
+* [Ordered construct](posts/ordered-construct.md)
 * [Collapse clause](posts/collapse-clause.md)
 * [Private, firstprivate and lastprivate clauses](posts/private-firstprivate-and-lastprivate-clauses.md)
 * [Reduction Clause](posts/reduction-clause.md)
